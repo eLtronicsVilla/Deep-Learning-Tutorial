@@ -28,12 +28,12 @@ In Dataset we have bank account holder information as listed below.
 
 We have 10000 of total data that we split in train as 80% of total data and 20% as test data.
 
-Type of Network : Artificial neural Network
-Layers : 3 layer ( 2 hidden layer and 1 output layer )
-Activation function : for hidden layer ( rectifier function) and for output layer (sigmoid function)
-Optimizer : Adam
-Loss function : binary_crossentropy
-batch size : 10
-epoch :100
-prediction threshold = 0.5 
+Type of Network : Artificial neural Network  
+Layers : 3 layer ( 2 hidden layer and 1 output layer )   
+Activation function : for hidden layer ( rectifier function) and for output layer (sigmoid function)   
+Optimizer : Adam   
+Loss function : binary_crossentropy    
+batch size : 10   
+epoch :100   
+prediction threshold = 0.5     
 
