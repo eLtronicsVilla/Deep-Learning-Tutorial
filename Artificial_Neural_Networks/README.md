@@ -3,7 +3,8 @@
 In this project we will predict about bank customer will stay or exit based on account information of customer.
 
 ## Project Description
-In Dataset we have bank account holder information as listed below. 
+In Dataset we have bank account holder information as listed below.    
+
 	1.RowNumber   
 	2.Customerid   
 	3.Surname   
