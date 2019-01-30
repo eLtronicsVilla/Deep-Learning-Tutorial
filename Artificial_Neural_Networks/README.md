@@ -25,6 +25,19 @@ In Dataset we have bank account holder information as listed below.
 
 ![](images/1.png)
 
+## Dependencies
+Following are the dependencies, you have to install in your system.
+
+	Python 2.7 or >3.5 or Jupyter Notebook or Anaconda-spider
+	Install Theano
+	Install tensorflow
+	Install keras
+	Install numpy
+	Install matplotlib
+	Install pandas
+	Install Scikitlearn
+
+
 ## Training Configurations
 
 We have 10000 of total data that we split in train as 80% of total data and 20% as test data.
