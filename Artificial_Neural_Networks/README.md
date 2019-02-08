@@ -25,8 +25,18 @@ In Dataset we have bank account holder information as listed below.
 
 ![](images/1.png)
 
+ann.py : To build a simple artificial neural network to train a model on given data.
+
+ANN_evaluate.py : Consist of the code to avaluate the model on test set while training.
+
+ANN_dropout.py : consist of the code building the dropout layer to come out of over fitting and under fitting graph.
+
+ANN_tunning.py : consist of the code to fine tune the model training parameters.
+
+predict_particular_observation.py:Predicting a single new observation
+
 ## Dependencies
-Following are the dependencies, you have to install in your system.
+Following are the dependencies, you have to install in your system.;
 
 	Python 2.7 or >3.5 or Jupyter Notebook or Anaconda-spider
 	Install Theano
