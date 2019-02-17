@@ -212,7 +212,7 @@ Compared with conventional convolution , we do not need to perform convolution a
 
 Modified depthwise separable convolution in Xception.
 
-![](images/xception)
+![](images/xception.png)
 
 The modified depthwise separable convolution is the pointwise convolution followed by a depthwise convolution.This modification is done in Inception v3 that 1x1 convolution is done first before any nxn spatial convolutions.
 
@@ -226,7 +226,7 @@ Squeexnet uses 1x1 ( point-wise) filter to replace 3x3.Using 1x1 filter as a bot
 
 The building block of SqueezeNet is called fire module, which contains two layers: a squeeze layer and expand layer.A SqeezeNet stackes a bunch of fire module and a few pooling layes.The squeeze layer and expand layer keep the same feature map size, while the former reduce the depth tp a smaller number, the later increase it.The squeezing (bottoleneck layer) and expansion behavior is common in neural architectures. Another common pattern is increasing depth while reducing feature map size to get high level abstract.
 
-![](images/squeezenet.png)
+![](images/squeeznet.png)
 
 ![](images/squeezenet_arch.png)
 
