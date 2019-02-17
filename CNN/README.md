@@ -193,7 +193,8 @@ The term micro-arhitecture refers to the set of "building blocks" used to constr
 
 ![](images/resnet_arch.png)
 
-![] (images/resnet2.png)
+
+![](images/resnet2.png)   
 
 # 7. Inception V3:
 
