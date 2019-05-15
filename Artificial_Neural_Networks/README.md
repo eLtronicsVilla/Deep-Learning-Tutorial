@@ -27,7 +27,7 @@ In Dataset we have bank account holder information as listed below.
 
 ann.py : To build a simple artificial neural network to train a model on given data.
 
-ANN_evaluate.py : Consist of the code to avaluate the model on test set while training.
+ANN_evaluate.py : Consist of the code to evaluate the model on test set while training.
 
 ANN_dropout.py : consist of the code building the dropout layer to come out of over fitting and under fitting graph.
 
