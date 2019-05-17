@@ -20,7 +20,11 @@ Gradient descent is an optimization algorith,which is used to learn the value of
 ## What is backpropagation?       
 Backpropagation is training algorithm used for multilayer neural network.It is used gradient calculation to reduce the cost function to minimize error function to get update the parameter for a better network.     
 It follows below steps :       
-1. forward propagation of training data to get the output.                                                                   2.Using target value and output value , error derivative can be computed with respect to output activation.                  3.Then we back propagate for computing derivative of the error , with respect to output activation on previous and continue this for all the hidden layer.                                                                                               4.Using previously calculated derivative for output and all hidden layer we calculate error derivative with respect to weight.                                                                                                                       5. And then we update the weight.        
+1. forward propagation of training data to get the output.
+2.Using target value and output value , error derivative can be computed with respect to output activation.
+3.Then we back propagate for computing derivative of the error , with respect to output activation on previous and continue this for all the hidden layer.   
+4.Using previously calculated derivative for output and all hidden layer we calculate error derivative with respect to weight.
+5. And then we update the weight.        
   
 ## What are the three varients of Gradient descent: batch,stochastic and mini-batch?       
 1.Stochastic Gradient Descent:     
