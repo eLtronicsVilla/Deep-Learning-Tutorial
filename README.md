@@ -10,7 +10,7 @@ It has application in various field computer vision,Speech recognition and Natur
 ## What is perceptran?
 In the structure of a biological neuron,it has dendride to receive inputs.These inputs are summed in cell body and using axon it shared to other cell.Similearlly a perceptran receives multiple input, applies various transformation and function and provide an output.
 
-# What is role of weight and bias?
+## What is role of weight and bias?
 For a perceptran , there can be one more output,called bias,while weight determine slope of classifier line. bias allow us to shift the line towards left or right.
 
 ## How deep networ is better than artificial neural network/shallow network?         
